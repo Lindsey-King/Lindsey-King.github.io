@@ -8,7 +8,6 @@ An overview of key parts of the repository.
 
 * `.github`: Defines the Github actions job that builds and deploys the site
 * `public`: Holds static assets, like images and downloadable pdfs
-* `scripts`: Holds a Python script to clean up resume metadata, as well as snippets used to generate mermaid flowcharts
 * `src`: Implements the site
 
 Within `src`, key components include:
