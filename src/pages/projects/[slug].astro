@@ -1,0 +1,99 @@
+---
+import { CollectionEntry, getCollection } from "astro:content";
+import PostLayout from "../../layouts/PostLayout.astro";
+import createSlug from "../../lib/createSlug";
+
+export async function getStaticPaths() {
+  const projectEntries = await getCollection("projects");
+  return projectEntries.map((entry) => ({
+    params: { slug: entry.slug },
+    props: { entry },
+  }));
+}
+
+interface Props {
+  entry: CollectionEntry<"projects">;
+}
+
+const { entry } = Astro.props;
+const project = entry.data;
+const { Content } = await entry.render();
+---
+
+<PostLayout
+  title={project.title}
+  description={project.description}
+  badge={project.badge}
+  heroImage={project.heroImage}
+  course={project.course}
+  design={project.design}
+  storyboard={project.storyboard}
+>
+  <div class="flex flex-wrap gap-3 my-4 not-prose">
+
+    <div>
+      {entry.data.description && (
+          <p class="text-xl italic mb-4">{entry.data.description}</p>
+      )}
+    </div>
+
+    <div class="block w-full clear-both h-0 m-0 p-0"></div>
+
+    <div class="grid grid-flow-col auto-cols-max items-stretch gap-3">
+    
+    {
+      project.course && (
+        <a
+          href={project.course}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="btn btn-outline btn-sm gap-2 flex items-center"
+        >
+          Experience the Course
+        </a>
+      )
+    }
+
+    {
+      project.design && (
+        <a
+          href={project.design}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="btn btn-outline btn-sm gap-2 flex items-center"
+        >
+          Design Document
+        </a>
+      )
+    }
+
+      {
+      project.storyboard && (
+        <a
+          href={project.storyboard}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="btn btn-outline btn-sm gap-2 flex items-center"
+        >
+          Storyboard
+        </a>
+      )
+    }  
+    </div>
+
+    {
+      project.heroImage && (
+        <div class="w-full max-w-4x1 overflow-hidden rounded-lg my-6 shadow-sm not-prose">
+          <img
+            src={project.heroImage}
+            alt={project.title}
+            class="w-full h-auto max-h-96 object-contain"
+          />
+        </div>
+      )
+    }
+  </div>
+
+  <Content />
+
+</PostLayout>
