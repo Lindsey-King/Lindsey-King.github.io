@@ -7,7 +7,7 @@ design: "/PDFs/Reporting/Reporting_Design.pdf"
 storyboard: "/PDFs/Reporting/Reporting_Storyboard.pdf"
 ---
 
-**Tools Used:** Articulate Storyline 360, ElevenLabs, Google Gemini
+**Tools Used:** Articulate Storyline 360, ElevenLabs, Canva, Google Gemini
 
 **Key Features**
 
