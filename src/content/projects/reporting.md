@@ -4,7 +4,7 @@ description: "This scenario-based e-learning module helps Colorado educators rec
 heroImage: "/Images/Reporting/reporting_splash.png"
 course: "/Courses/Reporting/story.html"
 design: "/PDFs/Reporting/Reporting_Design.pdf"
-storyboard: "/PDFs/Reporting/MandatoReporting_Storyboard.pdf"
+storyboard: "/PDFs/Reporting/Reporting_Storyboard.pdf"
 ---
 
 ### Tools Used
@@ -29,6 +29,6 @@ This project strengthened my ability to design compliance training that goes bey
 
 ### Project Artifacts
 
-* [Learner Analysis](/public/PDFs/Reporting/Reporting_Learner_Analysis.pdf)
-* [Work Plan](/public/PDFs/Reporting/Reporting_Workplan.pdf)
-* [Evaluation Plan](/public/PDFs/Reporting/Reporting_Evaluation_Plan.pdf)
+* [Learner Analysis](/PDFs/Reporting/Reporting_Learner_Analysis.pdf)
+* [Work Plan](/PDFs/Reporting/Reporting_Workplan.pdf)
+* [Evaluation Plan](/PDFs/Reporting/Reporting_Evaluation_Plan.pdf)
