@@ -7,29 +7,28 @@ design: "/PDFs/Reporting/Reporting_Design.pdf"
 storyboard: "/PDFs/Reporting/Reporting_Storyboard.pdf"
 ---
 
-**Tools Used:** Articulate Storyline 360, ElevenLabs, Canva, Google Gemini
+### Tools Used
 
-**Key Features**
+Articulate Storyline 360, ElevenLabs, Canva, Google Gemini
 
-• Branching scenario-based interactions 
+### Key Features
 
-• Realistic online student communication examples 
+* Branching scenario-based interactions 
+* Realistic online student communication examples 
+* Consequence-based feedback 
+* Judgment-focused decision making 
+* Accessibility-focused design
 
-• Consequence-based feedback 
+### Skills Demonstrated 
 
-• Judgment-focused decision making 
+Instructional design, scenario writing, compliance training, action mapping, storyboard development, eLearning development, and branching design
 
-• Accessibility-focused design
+### Reflection
 
-**Skills Demonstrated:** Instructional design, scenario writing, compliance training, action mapping, storyboard development, eLearning development, and branching design
+This project strengthened my ability to design compliance training that goes beyond information delivery and focuses on practical decision-making. It reinforced the value of scenario-based learning for helping learners build confidence in high-stakes situations where the best course of action may not be immediately obvious
 
-**Reflection**
+### Project Artifacts
 
-This project strengthened my ability to design compliance training that goes beyond information delivery and focuses on practical decision-making. It reinforced the value of scenario-based learning for helping learners build confidence in high-stakes situations where the best course of action may not always be immediately obvious
-
-**Project Artifacts**
-
- 
-
-
-
+* [Learner Analysis](/public/PDFs/Reporting/Reporting_Learner_Analysis.pdf)
+* [Work Plan](/public/PDFs/Reporting/Reporting_Workplan.pdf)
+* [Evaluation Plan](/public/PDFs/Reporting/Reporting_Evaluation_Plan.pdf)

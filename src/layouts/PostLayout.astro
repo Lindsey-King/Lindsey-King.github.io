@@ -40,3 +40,16 @@ import { Image } from "astro:assets";
     </article>
   </main>
 </BaseLayout>
+
+<style is:global>
+  /* Target all links that are generated dynamically inside the markdown slot */
+  .md-content a {
+    color: #3b82f6 !important; /* Forces standard link blue */
+    text-decoration: underline !important;
+    font-weight: 400 !important; /* Overrides forced bold styling */
+  }
+
+  .md-content a:hover {
+    color: #1d4ed8 !important; /* Darker blue color on hover */
+  }
+</style>
