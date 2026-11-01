@@ -1,6 +1,6 @@
-# jonking93.github.io
+# lindsey-king.github.io
 
-This project implements my [personal website](https://jonking93.github.io/). The site is built using [astro](https://astro.build/) with the [astrofy theme](https://astrofy-template.netlify.app/).
+This project implements my [personal website](https://lindsey-king.github.io/). The site is built using [astro](https://astro.build/) with the [astrofy theme](https://astrofy-template.netlify.app/).
 
 ## Contents
 
