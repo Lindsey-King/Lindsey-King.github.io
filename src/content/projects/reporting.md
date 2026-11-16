@@ -2,7 +2,7 @@
 title: "Colorado Mandatory Reporting for Online Student Interactions"
 description: "This scenario-based e-learning module helps Colorado educators recognize concerns in virtual learning environments and make informed mandatory reporting decisions. Learners apply Colorado reporting requirements through realistic online student interactions and receive feedback on the consequences of their choices."
 heroImage: "/Images/Reporting/reporting_splash.png"
-course: "/Courses/Reporting/story.html"
+course: "/Courses/Reporting/Story.html"
 design: "/PDFs/Reporting/Reporting_Design.pdf"
 storyboard: "/PDFs/Reporting/Reporting_Storyboard.pdf"
 ---
