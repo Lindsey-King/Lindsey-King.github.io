@@ -30,5 +30,5 @@ This project strengthened my ability to design compliance training that goes bey
 ### Project Artifacts
 
 * [Learner Analysis](/PDFs/Reporting/Reporting_Learner_Analysis.pdf)
-* [Work Plan](/PDFs/Reporting/Reporting_workplan.pdf)
+* [Work Plan](/PDFs/Reporting/Reporting_Workplan.pdf)
 * [Evaluation Plan](/PDFs/Reporting/Reporting_Evaluation_Plan.pdf)
