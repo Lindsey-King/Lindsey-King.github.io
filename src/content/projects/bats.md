@@ -7,11 +7,23 @@ design: "/PDFs/Bats/Bats_Design.pdf"
 storyboard: "/PDFs/Bats/Bats_Storyboard.pdf"
 ---
 
-**Audience:** Colorado homeowners, renters, parents, and anyone who may encounter a bat indoors.
- 
-**Tools Used:** Rise 360, Storyline 360, Canva
+### The Challenge
+Homeowners who discover a bat inside their home often react out of fear or rely on misinformation, increasing the risk of unsafe interactions and missed opportunities to protect both people and wildlife.
 
-**Features:** Flip Cards, Process Blocks, Action Sort, Branching Scenario, Customized Feedback Slides, Downloadable Resource, Mobile‑Optimized Layout
+### The Solution
+I designed a microlearning experience that provides just-in-time guidance for responding to indoor bat encounters through myth-busting activities, practical resources, and scenario-based practice.
 
-**Skills Demonstrated:** Microlearning design, performance support, scenario-based learning 
+### Tools Used
 
+Rise 360, Storyline 360, Canva
+
+### Key Features
+
+* Interactive myth-busting activities
+* Action-focused guidance 
+* Downloadable quick-reference resource
+* Mobile-optimized design
+
+### Key Design Decision
+
+I chose a microlearning format because learners are most likely to seek information immediately after encountering a bat in their home. Rather than providing extensive background information, the experience focuses on the essential actions homeowners need to take in the moment. Interactive activities and scenario-based practice reinforce key decisions while keeping the content concise, accessible, and easy to apply during a potentially stressful situation.

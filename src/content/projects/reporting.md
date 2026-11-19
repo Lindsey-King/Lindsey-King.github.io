@@ -7,25 +7,26 @@ design: "/PDFs/Reporting/Reporting_Design.pdf"
 storyboard: "/PDFs/Reporting/Reporting_Storyboard.pdf"
 ---
 
+### The Challenge
+Teachers often complete mandatory reporting training but have limited opportunities to practice making decisions in ambiguous online interactions.
+
+### The Solution
+I designed a scenario-based learning experience that allow educators to evaluate student communications, make reporting decisions, and experience realistic consequences.
+
 ### Tools Used
 
 Articulate Storyline 360, ElevenLabs, Canva, Google Gemini
 
 ### Key Features
 
-* Branching scenario-based interactions 
-* Realistic online student communication examples 
+* Realistic online interactions
 * Consequence-based feedback 
 * Judgment-focused decision making 
 * Accessibility-focused design
 
-### Skills Demonstrated 
+### Key Design Decision
 
-Instructional design, scenario writing, compliance training, action mapping, storyboard development, eLearning development, and branching design
-
-### Reflection
-
-This project strengthened my ability to design compliance training that goes beyond information delivery and focuses on practical decision-making. It reinforced the value of scenario-based learning for helping learners build confidence in high-stakes situations where the best course of action may not be immediately obvious
+I chose a scenario-based approach because mandatory reporting decisions rarely involve obvious right or wrong answers. Rather than testing learners on policy knowledge alone, the experience provides opportunities to analyze realistic student communications, make decisions in context, and see the consequences of their choices. This approach better supports transfer of learning to real-world situations.
 
 ### Project Artifacts
 
